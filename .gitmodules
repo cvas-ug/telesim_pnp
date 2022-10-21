@@ -34,9 +34,51 @@
 [submodule "Zed_custom_pkgs"]
 	path = ROS2/src/zed_stack/zed_custom_pkgs
 	url = git@github.com:09ubberboy90/Zed_custom_pkgs.git
-[submodule "t42_gripper"]
+[submodule "zed_sdk"]
 	path = ROS2/src/zed_stack/zed_sdk
 	url = git@github.com:09ubberboy90/zed-ros2-wrapper.git
 [submodule "zed-ros2-interfaces"]
+	path = ROS2/src/zed_stack/zed-ros2-interfaces
+	url = https://github.com/stereolabs/zed-ros2-interfaces.git
+[submodule "ROS2/src/baxter_stack/baxter_common_ros2"]
+	path = ROS2/src/baxter_stack/baxter_common_ros2
+	url = git@github.com:09ubberboy90/baxter_common_ros2.git
+[submodule "ROS2/src/baxter_stack/baxter_joint_controller"]
+	path = ROS2/src/baxter_stack/baxter_joint_controller
+	url = git@github.com:09ubberboy90/baxter_joint_controller.git
+[submodule "ROS1/src/baxter"]
+	path = ROS1/src/baxter
+	url = https://github.com/RethinkRobotics/baxter.git
+[submodule "ROS1/src/baxter_common"]
+	path = ROS1/src/baxter_common
+	url = https://github.com/RethinkRobotics/baxter_common.git
+[submodule "ROS1/src/baxter_examples"]
+	path = ROS1/src/baxter_examples
+	url = https://github.com/RethinkRobotics/baxter_examples.git
+[submodule "ROS1/src/baxter_interface"]
+	path = ROS1/src/baxter_interface
+	url = https://github.com/RethinkRobotics/baxter_interface.git
+[submodule "ROS1/src/baxter_tools"]
+	path = ROS1/src/baxter_tools
+	url = https://github.com/RethinkRobotics/baxter_tools.git
+[submodule "ROS2/src/vr_handler"]
+	path = ROS2/src/vr_handler
+	url = git@github.com:09ubberboy90/VRHandler.git
+[submodule "ROS2/src/ur_t42"]
+	path = ROS2/src/ur_t42
+	url = git@github.com:09ubberboy90/UR_T42.git
+[submodule "ROS2/src/isaac_sim"]
+	path = ROS2/src/isaac_sim
+	url = git@github.com:09ubberboy90/Isaac_UR_Baxter.git
+[submodule "ROS2/src/t42_gripper"]
+	path = ROS2/src/t42_gripper
+	url = git@github.com:09ubberboy90/t42_gripper.git
+[submodule "ROS2/src/zed_stack/zed_custom_pkgs"]
+	path = ROS2/src/zed_stack/zed_custom_pkgs
+	url = git@github.com:09ubberboy90/Zed_custom_pkgs.git
+[submodule "ROS2/src/zed_stack/zed_sdk"]
+	path = ROS2/src/zed_stack/zed_sdk
+	url = git@github.com:09ubberboy90/zed-ros2-wrapper.git
+[submodule "ROS2/src/zed_stack/zed-ros2-interfaces"]
 	path = ROS2/src/zed_stack/zed-ros2-interfaces
 	url = https://github.com/stereolabs/zed-ros2-interfaces.git
