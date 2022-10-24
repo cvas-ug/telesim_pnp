@@ -1,0 +1,6 @@
+log
+build
+install
+devel
+.catkin_workspace
+.vscode
