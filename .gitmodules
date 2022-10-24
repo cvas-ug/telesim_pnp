@@ -37,3 +37,6 @@
 [submodule "ROS2/src/zed_stack/zed-ros2-interfaces"]
 	path = ROS2/src/zed_stack/zed-ros2-interfaces
 	url = https://github.com/stereolabs/zed-ros2-interfaces.git
+[submodule "ROS1/src/baxter_interface"]
+	path = ROS1/src/baxter_interface
+	url = git@github.com:09ubberboy90/baxter_interface.git
