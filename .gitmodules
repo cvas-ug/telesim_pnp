@@ -13,9 +13,6 @@
 [submodule "ROS1/src/baxter_examples"]
 	path = ROS1/src/baxter_examples
 	url = https://github.com/RethinkRobotics/baxter_examples.git
-[submodule "ROS1/src/baxter_interface"]
-	path = ROS1/src/baxter_interface
-	url = git@github.com:09ubberboy90/baxter_interface.git
 [submodule "ROS1/src/baxter_tools"]
 	path = ROS1/src/baxter_tools
 	url = https://github.com/RethinkRobotics/baxter_tools.git
