@@ -56,7 +56,7 @@
 	path = ROS2/src/senseglove_ros2_ws
 	url = https://github.com/09ubberboy90/senseglove_ros2_ws.git
 	branch = ros2
-[submodule "baxter_joint_controller"]
-	path = baxter_joint_controller
+[submodule "ROS1/src/baxter_joint_controller"]
+	path = ROS1/src/baxter_joint_controller
 	url = https://github.com/09ubberboy90/baxter_joint_controller.git
 	branch = ros1
