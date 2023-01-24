@@ -16,7 +16,7 @@
 	url = https://github.com/RethinkRobotics/baxter_examples.git
 [submodule "ROS1/src/baxter_tools"]
 	path = ROS1/src/baxter_tools
-	url = https://github.com/RethinkRobotics/baxter_tools.git
+	url = https://github.com/09ubberboy90/baxter_tools.git
 [submodule "ROS1/src/baxter_joint_controller"]
 	path = ROS1/src/baxter_joint_controller
 	url = https://github.com/09ubberboy90/baxter_joint_controller.git
