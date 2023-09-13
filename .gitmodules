@@ -21,15 +21,12 @@
 	path = ROS1/src/baxter_joint_controller
 	url = https://github.com/09ubberboy90/baxter_joint_controller.git
 	branch = ros1
-[submodule "ROS2/src/vr_handler"]
-	path = ROS2/src/vr_handler
-	url = https://github.com/09ubberboy90/VRHandler.git
-[submodule "ROS2/src/ur_t42"]
-	path = ROS2/src/ur_t42
-	url = https://github.com/09ubberboy90/UR_T42.git
+[submodule "ROS2/src/vr_publisher"]
+	path = ROS2/src/vr_publisher
+	url = https://github.com/09ubberboy90/vr_publisher.git
 [submodule "ROS2/src/isaac_sim"]
 	path = ROS2/src/isaac_sim
-	url = https://github.com/09ubberboy90/Isaac_UR_Baxter.git
+	url = https://github.com/09ubberboy90/telesim_isaac.git
 [submodule "ROS2/src/t42_gripper"]
 	path = ROS2/src/t42_gripper
 	url = https://github.com/09ubberboy90/t42_gripper.git
