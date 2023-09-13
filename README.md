@@ -2,7 +2,7 @@
 
 Master package for Telesim, a modular and plug and play teleoperation system, that can be used with any kind of robotic arms. This repository contains both Baxter and UR Robot. Seperate version containing only one robot are available for [Baxter](https://github.com/09ubberboy90/telesim_pnp_baxter.git) or [UR3](https://github.com/09ubberboy90/telesim_pnp_ur.git).
 
-TODO: Insert Picture
+![docs/images/ICRA2024_main_fig.png](docs/images/ICRA2024_main_fig.png)
 
 ## Paper Abstract
 
