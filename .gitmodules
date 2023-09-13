@@ -41,3 +41,6 @@
 	path = ROS1/src/baxter_joint_controller
 	url = https://github.com/09ubberboy90/baxter_joint_controller.git
 	branch = ros1
+[submodule "ROS2/src/ur_isaac"]
+	path = ROS2/src/ur_isaac
+	url = https://github.com/09ubberboy90/ur_isaac.git
