@@ -33,25 +33,9 @@
 [submodule "ROS2/src/t42_gripper"]
 	path = ROS2/src/t42_gripper
 	url = https://github.com/09ubberboy90/t42_gripper.git
-[submodule "ROS2/src/zed_stack/zed_custom_pkgs"]
-	path = ROS2/src/zed_stack/zed_custom_pkgs
-	url = https://github.com/09ubberboy90/Zed_custom_pkgs.git
-[submodule "ROS2/src/zed_stack/zed_sdk"]
-	path = ROS2/src/zed_stack/zed_sdk
-	url = https://github.com/09ubberboy90/zed-ros2-wrapper.git
-[submodule "ROS2/src/zed_stack/zed-ros2-interfaces"]
-	path = ROS2/src/zed_stack/zed-ros2-interfaces
-	url = https://github.com/stereolabs/zed-ros2-interfaces.git
 [submodule "ROS1/src/baxter_interface"]
 	path = ROS1/src/baxter_interface
 	url = https://github.com/09ubberboy90/baxter_interface.git
-[submodule "ROS2/src/zed_stack/april_tag_ros2"]
-	path = ROS2/src/zed_stack/apriltag_ros2
-	url = https://github.com/09ubberboy90/apriltag_ros2.git
-	branch = ros2-port
-[submodule "ROS2/src/zed_stack/april_tag"]
-	path = ROS2/src/zed_stack/april_tag
-	url = https://github.com/AprilRobotics/apriltag.git
 [submodule "ROS2/src/senseglove_ros2_ws"]
 	path = ROS2/src/senseglove_ros2_ws
 	url = https://github.com/09ubberboy90/senseglove_ros2_ws.git
