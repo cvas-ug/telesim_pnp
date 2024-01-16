@@ -44,3 +44,6 @@
 [submodule "ROS2/src/ur_isaac"]
 	path = ROS2/src/ur_isaac
 	url = https://github.com/09ubberboy90/ur_isaac.git
+[submodule "ROS2/src/ur_robotiq"]
+	path = ROS2/src/ur_robotiq
+	url = https://github.com/09ubberboy90/ur_robotiq.git
