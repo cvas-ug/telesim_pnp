@@ -1,9 +1,9 @@
 [submodule "ROS2/src/baxter_stack/baxter_common_ros2"]
 	path = ROS2/src/baxter_stack/baxter_common_ros2
-	url = https://github.com/09ubberboy90/baxter_common_ros2.git
+	url = https://github.com/Ubb90/baxter_common_ros2.git
 [submodule "ROS2/src/baxter_stack/baxter_joint_controller"]
 	path = ROS2/src/baxter_stack/baxter_joint_controller
-	url = https://github.com/09ubberboy90/baxter_joint_controller.git
+	url = https://github.com/Ubb90/baxter_joint_controller.git
 	branch = ros2
 [submodule "ROS1/src/baxter"]
 	path = ROS1/src/baxter
@@ -16,34 +16,34 @@
 	url = https://github.com/RethinkRobotics/baxter_examples.git
 [submodule "ROS1/src/baxter_tools"]
 	path = ROS1/src/baxter_tools
-	url = https://github.com/09ubberboy90/baxter_tools.git
+	url = https://github.com/Ubb90/baxter_tools.git
 [submodule "ROS1/src/baxter_joint_controller"]
 	path = ROS1/src/baxter_joint_controller
-	url = https://github.com/09ubberboy90/baxter_joint_controller.git
+	url = https://github.com/Ubb90/baxter_joint_controller.git
 	branch = ros1
 [submodule "ROS2/src/vr_publisher"]
 	path = ROS2/src/vr_publisher
-	url = https://github.com/09ubberboy90/vr_publisher.git
+	url = https://github.com/Ubb90/vr_publisher.git
 [submodule "ROS2/src/isaac_sim"]
 	path = ROS2/src/isaac_sim
-	url = https://github.com/09ubberboy90/telesim_isaac.git
+	url = https://github.com/Ubb90/telesim_isaac.git
 [submodule "ROS2/src/t42_gripper"]
 	path = ROS2/src/t42_gripper
-	url = https://github.com/09ubberboy90/t42_gripper.git
+	url = https://github.com/Ubb90/t42_gripper.git
 [submodule "ROS1/src/baxter_interface"]
 	path = ROS1/src/baxter_interface
-	url = https://github.com/09ubberboy90/baxter_interface.git
+	url = https://github.com/Ubb90/baxter_interface.git
 [submodule "ROS2/src/senseglove_ros2_ws"]
 	path = ROS2/src/senseglove_ros2_ws
-	url = https://github.com/09ubberboy90/senseglove_ros2_ws.git
+	url = https://github.com/Ubb90/senseglove_ros2_ws.git
 	branch = ros2
 [submodule "ROS1/src/baxter_joint_controller"]
 	path = ROS1/src/baxter_joint_controller
-	url = https://github.com/09ubberboy90/baxter_joint_controller.git
+	url = https://github.com/Ubb90/baxter_joint_controller.git
 	branch = ros1
 [submodule "ROS2/src/ur_isaac"]
 	path = ROS2/src/ur_isaac
-	url = https://github.com/09ubberboy90/ur_isaac.git
+	url = https://github.com/Ubb90/ur_isaac.git
 [submodule "ROS2/src/ur_robotiq"]
 	path = ROS2/src/ur_robotiq
-	url = https://github.com/09ubberboy90/ur_robotiq.git
+	url = https://github.com/Ubb90/ur_robotiq.git
